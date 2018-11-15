@@ -1,0 +1,6 @@
+framework module ZMJTestFramework {
+  umbrella header "ZMJTestFramework.h"
+
+  export *
+  module * { export * }
+}
